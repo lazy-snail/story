@@ -19,7 +19,7 @@ h1 {
 
 #eventname {
     color: #F3CB02;
-    font-size: 32px;
+    font-size: 64px;
 }
 
 #sessionname {
@@ -28,7 +28,7 @@ h1 {
 }
 
 #luckyperson {
-    font-size: 32px;
+    font-size: 64px;
     text-align: center;
     margin-top: 400px;
 }
@@ -36,7 +36,8 @@ h1 {
 #btn {
     background-color: #ddd;
     text-align: center;
-    width: 150px;
-    height: 60px;
+    width: 350px;
+    height: 120px;
+	font-size: 48px;
     margin-top: 400px;
 }
