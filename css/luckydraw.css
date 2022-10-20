@@ -1,40 +1,42 @@
 body {
-	background-color: #FFF8DC;
-	color: #000;
-	background-image: url(../images/yellow-circles.svg);
-	background-size: 800px 800px;
-	background-position: left -440px top -240px;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
+    background-color: #FFF8DC;
+    color: #000;
+    background-image: url(../images/yellow-circles.svg);
+    background-size: 800px 800px;
+    background-position: left -440px top -240px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 h1 {
-	color: #F3CB02;
+    color: #F3CB02;
 }
 
-#logo {
-	width: 50px;
-	height: 50px;
-}
+/*#logo {*/
+/*	width: 50px;*/
+/*	height: 50px;*/
+/*}*/
 
 #eventname {
-        color: #F3CB02;
-        font-size: 32px;
+    color: #F3CB02;
+    font-size: 32px;
 }
 
 #sessionname {
-        color: #F3CB02;
-        font-size: 64px;
+    color: #F3CB02;
+    font-size: 64px;
 }
 
 #luckyperson {
-	font-size: 32px;
-    text-align:center;
-	margin-top: 200px;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 400px;
 }
 
-/*#btn {*/
-/*	background-color:#ddd;*/
-/*	text-align:center;*/
-/*	margin-top: 500px;*/
-/*}*/
+#btn {
+    background-color: #ddd;
+    text-align: center;
+    width: 150px;
+    height: 60px;
+    margin-top: 400px;
+}
